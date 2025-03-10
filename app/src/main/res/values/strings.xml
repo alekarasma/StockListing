@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CashApp</string>
+    <string name="screen_text_cashapp_stock_portfolio">CashApp Stock Portfolio</string>
+    <string name="scrren_text_stock_portfolio">Stock Portfolio</string>
+    <string name="text_screen_show_me_excited">Show Me, I am excited!!!</string>
+</resources>
